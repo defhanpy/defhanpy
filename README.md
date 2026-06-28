@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Ilhan Awafi</h1>
+<h1 align="center">Hi there, I'm Ilhan Awafi 👋</h1>
 
 ### About Me
-- Full-Stack Developer with IoT integration experience
-- Building scalable web applications and smart systems
-- Data analysis enthusiast
+- 💻 Full-Stack Developer with IoT integration experience
+- 🌐 Building scalable web applications and smart systems
+- 📊 Data analysis enthusiast
 
 ### Tech Stack
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Go, Node.js, PHP
-- Database: PostgreSQL, MySQL
-- IoT: Arduino, ESP32, Sensor Integration
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Go, Node.js, PHP
+- **Database:** PostgreSQL, MySQL
+- **IoT:** Arduino, ESP32
 
 ### Connect
 [![Website](https://img.shields.io/badge/Website-ilhanawafi.me-00d4aa?style=flat-square)](https://ilhanawafi.me)
