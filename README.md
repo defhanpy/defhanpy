@@ -23,11 +23,11 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?perline=10&i=go,py,php,js,ts,laravel,express,nextjs,react,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?perline=10&i=go,py,cs,php,js,ts,dotnet,django,laravel,express,nextjs,react" alt="Tech Stack" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?perline=10&i=redis,docker,nginx,linux,git,github,vscode,postman,figma,threejs" alt="Tools & Infra" />
+  <img src="https://skillicons.dev/icons?perline=10&i=postgres,mysql,redis,docker,nginx,linux,git,github,vscode,postman,figma,threejs" alt="Tools & Infra" />
 </p>
 
 ---
