@@ -2,7 +2,7 @@
 <h3 align="center">Prompt Engineer & Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Prompt+Engineer;AI+%2F+LLM+Enthusiast;Full-Stack+Explorer;Building+Cool+Things+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Prompt+Engineer;AI+%2F+LLM+Enthusiast;Full-Stack+Explorer;Building+Cool+Things+with+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defhanpy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=defhanpy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
